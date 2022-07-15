@@ -19,10 +19,10 @@
 | 6 | [intro/tutorial01](https://docs.djangoproject.com/en/3.2/intro/tutorial01) | مهدی ابراهیمی | :green_circle: | 0 |
 | 7 | [intro/tutorial02](https://docs.djangoproject.com/en/3.2/intro/tutorial02) | مهدی ابراهیمی | :green_circle: | 0 |
 | 8 | [intro/tutorial03](https://docs.djangoproject.com/en/3.2/intro/tutorial03) | مهدی ابراهیمی | :green_circle: | 0 |
-| 9 | [intro/tutorial04](https://docs.djangoproject.com/en/3.2/intro/tutorial04) | Reza Yazdani | :yellow_circle: | 0 |
-| 10 | [intro/tutorial05](https://docs.djangoproject.com/en/3.2/intro/tutorial05) | Reza Yazdani | :yellow_circle: | 0 |
-| 11 | [intro/tutorial06](https://docs.djangoproject.com/en/3.2/intro/tutorial06) | Reza Yazdani | :yellow_circle: | 0 |
-| 12 | [intro/tutorial07](https://docs.djangoproject.com/en/3.2/intro/tutorial07) | Reza Yazdani | :yellow_circle: | 0 |
+| 9 | [intro/tutorial04](https://docs.djangoproject.com/en/3.2/intro/tutorial04) | نامشخص | :red_circle: | 0 |
+| 10 | [intro/tutorial05](https://docs.djangoproject.com/en/3.2/intro/tutorial05) | نامشخص | :red_circle: | 0 |
+| 11 | [intro/tutorial06](https://docs.djangoproject.com/en/3.2/intro/tutorial06) | نامشخص | :red_circle: | 0 |
+| 12 | [intro/tutorial07](https://docs.djangoproject.com/en/3.2/intro/tutorial07) | نامشخص | :red_circle: | 0 |
 | 13 | [intro/reusable-apps](https://docs.djangoproject.com/en/3.2/intro/reusable-apps) | نامشخص | :red_circle: | 0 |
 | 14 | [intro/whatsnext](https://docs.djangoproject.com/en/3.2/intro/whatsnext) | نامشخص | :red_circle: | 0 |
 | 15 | [intro/contributing](https://docs.djangoproject.com/en/3.2/intro/contributing) | نامشخص | :red_circle: | 0 |
